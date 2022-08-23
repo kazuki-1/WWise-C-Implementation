@@ -1,0 +1,8 @@
+Event	ID	Name			Wwise Object Path	Notes
+	264233452	WalkOnGravel			\Default Work Unit\WalkOnGravel	
+	417627684	PlayMusic			\Default Work Unit\PlayMusic	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	746246977	gravel	C:\Users\Kazuki\Desktop\WWiseProjects\Test2\.cache\Windows\SFX\gravel_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\gravel		84088
+	800922717	Idle	C:\Users\Kazuki\Desktop\WWiseProjects\Test2\.cache\Windows\SFX\Idle_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Idle		37504576
+
